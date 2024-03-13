@@ -1,50 +1,32 @@
-<h1 align="center">Hi 👋, I'm Ana</h1>
+# Hi 👋, I'm Ana
 
-<p align="center">
-  <em>
-    I am a Brazilian Software Developer. Currently studying Java and SpringBoot and getting to know php.
-  </em> 
-  <br>
-</p>
+#### I am a Brazilian Software Developer. Currently studying Java and SpringBoot and getting to know php.
 
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
-</a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="40" height="40"/>
-</a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
-</a>
- </p><br>
+#### Languages and Tools:
 
-<hr>
+<img src="https://img.shields.io/badge/-Oracle-F80000.svg?logo=oracle&style=plastic"><img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic"><img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic"><img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=plastic"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=plastic"><img src="https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=plastic"><img src="https://img.shields.io/badge/-Angular-DD0031.svg?logo=angular&style=plastic"><img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic">
 
-<h3>Stats:</h3>
+
+### Stats:
+
 <div>
-<p>&nbsp; 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Anapqas&show_icons=true&theme=dark&locale=en" height="200"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anapqas&show_icons=true&theme=dark&locale=en&layout=compact" height="200"/>
-</p><br>
-</div><br>
-
-<br><br><br><br><br><br>
-
-<hr>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ana-stama-2a7722115/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
-<a href="mailto:ana.anderi@gmail.com" target="_blank" rel="noreferrer">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" />
+<a href="https://github.com/Anapqas?tab=repositories">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anapqas&hide=jupyter%20notebook&theme=dracula&hide_langs_below=0" />
 </a>
-</p>
+
+<a href="https://github.com/Anapqas">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Anapqas&show_icons=true&theme=dracula&include_all_commits=true&title_color=7221ff&count_private=true"/>
+</a>
+</div>
+
 <br>
+<div>
+
+</div>
+
+### Connect with me:
+<div>
+<a href="https://www.linkedin.com/in/ana-stama-2a7722115/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:ana.anderi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
