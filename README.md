@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ana
 
-#### I am a Brazilian Software Developer. Currently studying Java and SpringBoot and getting to know php.
+#### I am a Brazilian Software Developer. Currently studying Java and SpringBoot.
 
 #### Languages and Tools:
 
