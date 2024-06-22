@@ -11,11 +11,11 @@
 
 <div>
 <a href="https://github.com/Anapqas?tab=repositories">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anapqas&hide=jupyter%20notebook&theme=dracula&hide_langs_below=0" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anapqas&hide=jupyter%20notebook&theme=cobalt&hide_langs_below=0" />
 </a>
 
 <a href="https://github.com/Anapqas">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Anapqas&show_icons=true&theme=dracula&include_all_commits=true&title_color=7221ff&count_private=true"/>
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Anapqas&show_icons=true&theme=cobalt&include_all_commits=true&title_color=7221ff&count_private=true"/>
 </a>
 </div>
 
